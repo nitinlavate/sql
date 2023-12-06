@@ -1,0 +1,5 @@
+SQL:
+-Sql stands for Sructured Query Langauge.
+-using sql we can access and manipulate the data from database.
+-in sql we need to know what is data,database,DBMS,RDBMS.
+-also we need to know and we can say we have to knowledge about the datatypes and contraints.
